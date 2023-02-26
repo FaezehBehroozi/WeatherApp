@@ -67,6 +67,16 @@ h5 {
   max-width: 50px;
 }
 
-.source {
+footer {
   text-align: center;
+  font-size: small;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.source {
+  text-decoration: none;
+}
+
+.source:hover {
+  text-decoration: underline;
 }
